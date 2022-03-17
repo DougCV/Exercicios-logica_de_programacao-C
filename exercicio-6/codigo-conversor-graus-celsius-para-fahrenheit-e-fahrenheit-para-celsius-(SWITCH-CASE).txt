@@ -1,4 +1,4 @@
-//Conversor de graus Celsius para Fahrenheit e Fahrenheit para Celsius (SWITCH-CASE);
+//Conversor de graus Celsius para Fahrenheit e Fahrenheit para Celsius (SWITCH-CASE):
 
 #include<stdio.h>
 

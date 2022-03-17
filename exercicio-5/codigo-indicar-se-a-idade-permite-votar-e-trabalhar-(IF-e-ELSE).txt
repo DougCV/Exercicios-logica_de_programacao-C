@@ -1,4 +1,4 @@
-//Indicar se é maior de idade, se já pode votar e se pode trabalhar (IF e ELSE);
+//Indicar se é maior de idade, se já pode votar e se pode trabalhar (IF e ELSE):
 
 #include<stdio.h>
 

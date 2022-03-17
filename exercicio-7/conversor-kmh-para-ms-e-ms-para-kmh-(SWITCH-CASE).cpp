@@ -1,4 +1,4 @@
-//Conversor quilômetro por hora (Km\h) para metros por segundo (m\s) e metros por segundo (m\s) para quilômetro por hora (Km\h) (SWITCH-CASE);
+//Conversor quilômetro por hora (Km\h) para metros por segundo (m\s) e metros por segundo (m\s) para quilômetro por hora (Km\h) (SWITCH-CASE):
 
 #include<stdio.h>
 

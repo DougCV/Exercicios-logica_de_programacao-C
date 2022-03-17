@@ -1,4 +1,4 @@
-//Cálculo de idade:
+//Cálculo de idade com base no ano atual:
 
 #include<stdio.h>
 
