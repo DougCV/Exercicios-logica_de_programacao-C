@@ -13,7 +13,7 @@ Exercícios de Lógica de Programação - Linguagem C
 
  Exercício 06 - Conversor de graus Celsius para Fahrenheit e Fahrenheit para Celsius (SWITCH-CASE).
 
- Exercício 07 - Conversor quilômetro por hora (Km\h) para metros por segundo (m\s) e metros por segundo (m\s) para quilômetro por hora (Km\h(SWITCH-CASE).
+ Exercício 07 - Conversor quilômetro por hora (Km\h) para metros por segundo (m\s) e metros por segundo (m\s) para quilômetro por hora (Km\h) (SWITCH-CASE).
 
  Exercício 08 - Cálculo da média de notas do aluno (IF-ELSE).
 
