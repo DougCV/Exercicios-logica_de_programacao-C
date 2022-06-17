@@ -1,5 +1,5 @@
 
-Lista 01 Exercícios de Lógica de Programação - Linguagem C
+Exercícios de Lógica de Programação - Linguagem C
 
 
 Exercício 01 - Calculadora de soma.
@@ -25,4 +25,5 @@ Exercício 10 - Gerar bilhetes do número 1000 ao 8000 usando laço de repetiç�
 Exercício 11 - Gerar bilhetes do número 1000 ao 8000 usando laço de repetição (FOR).
 
 Exercício 12 - Digitar 3 notas de 3 alunos e calcular a média de cada aluno (FOR e IF-ELSE).
- 
+
+Exercício 13 - Digitar 3 notas de 3 alunos e calcular a média de cada aluno (WHILE e IF-ELSE).
