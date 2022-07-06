@@ -29,3 +29,7 @@ Exercício 12 - Digitar 3 notas de 3 alunos e calcular a média de cada aluno (F
 Exercício 13 - Digitar 3 notas de 3 alunos e calcular a média de cada aluno (WHILE e IF-ELSE).
 
 Exercício 14 - Gerar 4 setores com 200 cadeiras (FOR).
+
+Exercício 15 - Gerar 4 setores com 200 cadeiras (WHILE).
+
+Exercício 16 - Gerar 4 setores com 200 cadeiras (FOR e WHILE).
