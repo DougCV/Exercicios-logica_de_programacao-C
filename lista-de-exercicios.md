@@ -33,3 +33,7 @@ Exercício 14 - Gerar 4 setores com 200 cadeiras (FOR).
 Exercício 15 - Gerar 4 setores com 200 cadeiras (WHILE).
 
 Exercício 16 - Gerar 4 setores com 200 cadeiras (FOR e WHILE).
+
+Exercício 17 - Apresentar todos os números divisíveis por 4 que sejam menores que 200 (FOR).
+
+Exercício 18 - Apresentar todos os números divisíveis por 4 que sejam menores que 200 (WHILE).
