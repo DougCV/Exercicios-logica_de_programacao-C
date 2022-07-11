@@ -37,3 +37,7 @@ Exercício 16 - Gerar 4 setores com 200 cadeiras (FOR e WHILE).
 Exercício 17 - Apresentar todos os números divisíveis por 4 que sejam menores que 200 (FOR).
 
 Exercício 18 - Apresentar todos os números divisíveis por 4 que sejam menores que 200 (WHILE).
+
+Exercício 19 - Definir o tamanho do vetor e preencher ele com laço de repetição (Array e FOR).
+
+Exercício 20 - Alterar os valores das variáveis A=10, B=20 e C=30 para A=20, B=30 e C=10.
