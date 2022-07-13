@@ -41,3 +41,7 @@ Exercício 18 - Apresentar todos os números divisíveis por 4 que sejam menores
 Exercício 19 - Definir o tamanho do vetor e preencher ele com laço de repetição (Array e FOR).
 
 Exercício 20 - Alterar os valores das variáveis A=10, B=20 e C=30 para A=20, B=30 e C=10.
+
+Exercício 21 - Digitar um nome e imprimir as 4 primeiras letras, use o comando "strlen".
+
+Exercício 22 - Digitar um número e informar se ele é divisível por 2, 5, 10 ou se não é divisível por nenhum deles.
