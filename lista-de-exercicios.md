@@ -45,3 +45,7 @@ Exercício 20 - Alterar os valores das variáveis A=10, B=20 e C=30 para A=20, B
 Exercício 21 - Digitar um nome e imprimir as 4 primeiras letras, use o comando "strlen".
 
 Exercício 22 - Digitar um número e informar se ele é divisível por 2, 5, 10 ou se não é divisível por nenhum deles.
+
+Exercício 23 - Digitar um número e determinar se ele é par ou ímpar e se é positivo ou negativo.
+
+Exercício 24 - Calcule a soma dos números inteiros de 1 a 100.
