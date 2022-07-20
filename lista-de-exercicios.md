@@ -51,3 +51,5 @@ Exercício 23 - Digitar um número e determinar se ele é par ou ímpar e se é 
 Exercício 24 - Calcule a soma dos números inteiros de 1 a 100.
 
 Exercício 25 - Digitar 3 valores e mostrar qual é o maior deles.
+
+Exercício 26 - Cálculo de média de notas do aluno.
