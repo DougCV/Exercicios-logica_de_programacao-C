@@ -53,3 +53,5 @@ Exercício 24 - Calcule a soma dos números inteiros de 1 a 100.
 Exercício 25 - Digitar 3 valores e mostrar qual é o maior deles.
 
 Exercício 26 - Cálculo de média de notas do aluno.
+
+Exercício 27 - Crie uma matriz (4x4) com números em ordem crescente exibindo a posição que os números ocupam (linha x coluna).
