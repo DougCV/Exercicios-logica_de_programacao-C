@@ -1,5 +1,5 @@
 
-Exercícios de Lógica de Programação - Linguagem C
+Lista 01 Exercícios de Lógica de Programação - Linguagem C
 
 
 Exercício 01 - Calculadora de soma.
